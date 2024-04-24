@@ -1,10 +1,12 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of your software}
+## Description
+This program prints out hello world to the terminal
 
-{Describe your purpose for creating this software.}
+
+## Purpose 
+I wanted to make this program so I had a program in my repository
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -12,12 +14,13 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+## Tools
+git hub desktop
 
-{Describe the programming language that you used}
+## Language
+Python
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
- [Web Site Name](httpurl.link.goes.here)
- [Web Site Name](httpurl.link.goes.here)
+ [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+ [Prove 01](https://byui-cse.github.io/cse310-course/lesson01/01-prove_campus.html)
